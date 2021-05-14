@@ -1,0 +1,21 @@
+{
+  "name": "apiaa",
+  "version": "1.0.0",
+  "description": "api para entrega de trabajo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dileyson",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^4.2.1",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "pg": "^8.6.0",
+    "yargs": "^17.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
